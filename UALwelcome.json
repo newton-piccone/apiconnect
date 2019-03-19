@@ -1,15 +1,15 @@
 {
     "Welcome": {
-        "To": "RBI",
+        "To": "United Airlines",
 		"Enjoy": {
             "Our Demo": "Of API Connect",
 			"Topics": {
                 "APIC": {
                     "Timeframe": "Future",
 					"DataPower": "Future",
-					"APIC Reserved Instance": "Public Isolation is the Future",
+					"APIC Reserved Instance": "Cloud is the Future",
 					"Speaker": "Newton",
-					"Speaker": "Sajan",
+					"Speaker": "Ricky",
 					"Our Commitment": {
                         "To you": "Show you cool stuff!": ["Now", "Future"]
                     },
